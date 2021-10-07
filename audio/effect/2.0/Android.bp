@@ -12,8 +12,14 @@ package {
 hidl_interface {
     name: "android.hardware.audio.effect@2.0",
     root: "android.hardware",
+<<<<<<< HEAD
     // TODO(b/153609531): remove when no longer needed.
     native_bridge_supported: true,
+=======
+    vndk: {
+        enabled: true,
+    },
+>>>>>>> parent of b0907a6bb... update hidl .bp
     srcs: [
         "types.hal",
         "IAcousticEchoCancelerEffect.hal",
