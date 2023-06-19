@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8885e6df_f68fad17",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 408
+      },
+      "writtenOn": "2023-06-19T08:03:16Z",
+      "side": 1,
+      "message": "I saw this issue on our GitLab.\nFrom here.(https://gitlab.com/arrowos-support/issues/android/-/issues/368#note_1435539757)",
+      "revId": "83af7610ce6ac4f3817bcadbd4ee02d1c873a67e",
+      "serverId": "66da7299-18b4-411a-8fa2-12a880778196"
+    }
+  ]
+}
