@@ -16,6 +16,24 @@
       "message": "Sarthak can you check if this does not affect MTK, do CR+1 if that\u0027s the case",
       "revId": "979ba92c5726a4afc2b56083e91b75dd421a1afd",
       "serverId": "66da7299-18b4-411a-8fa2-12a880778196"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0ad4604e_6a8d0816",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 105
+      },
+      "writtenOn": "2023-06-19T09:14:48Z",
+      "side": 1,
+      "message": "I meant to say V+1",
+      "parentUuid": "c5f08883_e104d805",
+      "revId": "979ba92c5726a4afc2b56083e91b75dd421a1afd",
+      "serverId": "66da7299-18b4-411a-8fa2-12a880778196"
     }
   ]
 }
